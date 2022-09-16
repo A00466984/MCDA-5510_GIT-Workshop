@@ -1,0 +1,6 @@
+#A00466984
+
+Public int Max (int a, int b)
+{
+	return Math.max(a,b);
+}
