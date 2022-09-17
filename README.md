@@ -15,6 +15,6 @@ A number - A00467741
 
 Feature branch added by me : feature/A00467741
 
-Features added: Subtraction, Mod, Math.avg
+Features added: Subtraction, Mod, Average
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
